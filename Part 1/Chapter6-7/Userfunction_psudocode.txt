@@ -1,0 +1,22 @@
+function User_function()
+	 Have an array of functions to call:
+
+	 get the token userfun or func or whatever:
+
+	 first check if function_name is in list
+	 if not, report error:
+
+	 then make a test for currently defined fuctions
+	      for the function "sqrt"
+	      	  first compute the expression
+		  if expression < 0, throw error
+		  otherwise call sqrt(expression)
+		  
+
+
+
+
+
+
+
+function sqrt<expression>

@@ -1,0 +1,50 @@
+//------------------------------------------------------------------------------
+  Problem 06_07
+
+
+  Write a grammar for bitwise logical expressions. A bitwise logical ex-
+  pression is much like an arithmetic expression except that the operators
+  are ! (not), ~ (complement), & (and), | (or), and ^ (exclusive or). Each
+  operator does its operation to each bit of its integer operands (see §25.5).
+  ! and ~ are prefix unary operators. A ^ binds tighter than a | (just as *
+  binds tighter than + ) so that x|y^z means x|(y^z) rather than (x|y)^z . The
+  & operator binds tighter than ^ so that x^y&z means x^(y&z) .
+
+//------------------------------------------------------------------------------
+
+So in order, we have:
+
+
+ * Modifications:
+
+       <expression> = <term> + <expression>
+	            = <term> - <expression>
+	            = <term>
+
+       <term> = <primary>
+              = <term> * <primary>
+	      = <term> / <primary>
+
+       <primary> = <number>
+	         = (<expression>)
+		 = {<expression>}
+
+       <number> = <float_literal> 
+
+
+   ! ~ & ^ |
+   
+in BNF form, we have a possible grammar:
+
+   <expression> = <term>
+   		= <expression>!
+		= ~<expression>
+		= <expression> | <term>
+
+   <term> = <primary>
+   	  = <term> & <primary>
+	  = <term> ^ <primary>
+
+   <primary> = <number>
+   	     = (<expression>)!
+

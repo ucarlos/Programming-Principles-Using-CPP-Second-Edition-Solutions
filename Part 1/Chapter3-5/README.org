@@ -1,0 +1,5 @@
+#+title: Programming: Principles and Practice Using C++ Chapter 03 - Chapter 05
+#+author: Ulysses Carlos
+
+
+This repository contains solutions to several problems from Bjarne Stroustrup's _Principles of Programming Using C++ (2014)_. These solutions were written on a Linux machine, but should work on Windows and macOS since it only uses the standard C++ library. There is an older C++ repository of the same material (From 2018), but I have decided to make a new repository for these chapters.

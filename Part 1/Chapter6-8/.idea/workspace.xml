@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Chapter6_8" targetName="calculator02buggy" />
+      <config projectName="Chapter6_8" targetName="Problem06_04" />
+      <config projectName="Chapter6_8" targetName="Problem06_03" />
+      <config projectName="Chapter6_8" targetName="Problem06_0a" />
+      <config projectName="Chapter6_8" targetName="Calculator02" />
+      <config projectName="Chapter6_8" targetName="calculator00" />
+      <config projectName="Chapter6_8" targetName="Problem06_08" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca156459-5eaa-4bbd-b6f1-fc53abe66155" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1PD9oxzx84DF2D2pphRxFIWLyql" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OLD/Chapter6-9_OLD" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Calculator02">
+    <configuration name="Calculator02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="Calculator02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="Calculator02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem06_03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="Problem06_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="Problem06_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem06_04" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="Problem06_04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="Problem06_04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem06_08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="Problem06_08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="Problem06_08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem06_0a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="Problem06_0a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="Problem06_0a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator00" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="calculator00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="calculator00">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator02buggy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter6_8" TARGET_NAME="calculator02buggy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter6_8" RUN_TARGET_NAME="calculator02buggy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.calculator00" />
+      <item itemvalue="CMake Application.Calculator02" />
+      <item itemvalue="CMake Application.calculator02buggy" />
+      <item itemvalue="CMake Application.Problem06_03" />
+      <item itemvalue="CMake Application.Problem06_04" />
+      <item itemvalue="CMake Application.Problem06_08" />
+      <item itemvalue="CMake Application.Problem06_0a" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca156459-5eaa-4bbd-b6f1-fc53abe66155" name="Default Changelist" comment="" />
+      <created>1565397978610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565397978610</updated>
+      <workItem from="1565397980998" duration="373000" />
+      <workItem from="1565398568427" duration="3078000" />
+      <workItem from="1565407933322" duration="966000" />
+      <workItem from="1565409767176" duration="611000" />
+      <workItem from="1565413619550" duration="1076000" />
+      <workItem from="1565416528913" duration="892000" />
+      <workItem from="1565835890800" duration="2486000" />
+      <workItem from="1565847656776" duration="599000" />
+      <workItem from="1565912440041" duration="2109000" />
+      <workItem from="1565918138619" duration="3991000" />
+      <workItem from="1566002132669" duration="2153000" />
+      <workItem from="1566007792007" duration="3280000" />
+      <workItem from="1566186053391" duration="2751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/calculator00.cpp</url>
+          <line>94</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem06_03.cpp</url>
+          <line>201</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem06_08.cpp</url>
+          <line>88</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

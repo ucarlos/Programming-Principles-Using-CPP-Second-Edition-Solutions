@@ -1,0 +1,74 @@
+Calculation:
+	Statement
+	Print
+	Quit
+	Calculation Statement
+
+Print:
+	;
+
+Quit:
+	q;
+
+
+Statement:
+	Declaration
+	Expression
+	Userfunction
+
+
+Expression:
+	Term
+	Expression + Term
+	Expression - Term
+
+Term:
+	Primary
+	Term * Primary
+	Term / Primary
+	Term % Primary
+
+Primary:
+	Number
+	(Expression)
+	- Primary
+	+ Primary
+Number:
+	Floating-point-literal
+
+
+Declaration:
+	"let" Name "=" Expression
+	"let" Name "=" Userfunction
+
+
+Userfunction: // 
+	 Userfunction(Expression>)
+	 
+	 Userfunction(Expression, Expression) // IGNORE THIS FOR NOW
+
+
+
+The best idea is to first calculate the expression, and then do the function_call.
+
+
+So the inside could be
+	function_name(<expression>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
